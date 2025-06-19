@@ -34,9 +34,6 @@ This project was developed as part of my web development learning journey. It he
 * Images and text are for educational purposes only
 * No backend or real-time content fetching
 
-## 📸 Screenshot
-
-*(You can insert a screenshot of your project here)*
 
 ## 📂 How to Use
 
@@ -49,6 +46,3 @@ This project was developed as part of my web development learning journey. It he
 * Inspired by the original [Myntra](https://www.myntra.com/) homepage
 * All product images and design are owned by Myntra – used here **only for educational purposes**
 
----
-
-Let me know if you'd like to add deployment info (e.g., if it's hosted on GitHub Pages) or want it in a shorter version!
